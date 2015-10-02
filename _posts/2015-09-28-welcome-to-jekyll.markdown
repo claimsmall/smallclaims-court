@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-09-28 11:57:04
+title:  "Welcome to Smallclaim.com!"
+date:   2015-10-02 11:57:04
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# About Us
+---
 
-Jekyll also offers powerful support for code snippets:
+At SmallClaim.com we offer professional document preparation services at market-beating prices. Just as our name suggests, we think of ourselves as “everything small claim!”  As a family owned & operated company, we take great care to ensure our clients receive the best customer experience in the industry.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Whether filing your case online or speaking to one of our experts, rest assured your filing process will be fast, accurate, and cost-effective. In fact, most of our clients are able to complete the process in as little as 15 minutes!
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Furthermore, all documents are professionally reviewed at the time you place your order and once again when filing. At SmallClaim.com we understand the importance of these procedures to our customer, and therefore we strive to maintain a high degree of expertise and a fast turnaround time. Most services we offer are commenced within 24 to 48 hours. SmallClaim.com also extends a 100% money back guarantee if you are not completely satisfied.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+While SmallClaim.com is not a law firm and cannot provide legal advice, we understand the procedural “ins” and “outs” of document preparation and filing in every state and over the years SmallClaim.com has developed relationships with hundreds of governmental agencies nationwide. SmallClaim.com is also directed by a select advisory group of attorneys, partners and investors.
+
+ 
+
+[SmallClaim.com Team](http://smallclaim.com)
